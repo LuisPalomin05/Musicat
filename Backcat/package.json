@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "proyecto de musica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisPalomin05/Musicat.git"
+  },
+  "author": "Luis Alfredo Palomino Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisPalomin05/Musicat/issues"
+  },
+  "homepage": "https://github.com/LuisPalomin05/Musicat#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
